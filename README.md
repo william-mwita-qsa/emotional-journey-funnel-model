@@ -3,7 +3,7 @@
 ### 🎓 Author: William Mwita, Quantitative Systems Analyst (QSA)  
 📅 Date Started: June 29, 2025  
 🌍 Focus Area: Market Intelligence & Behavioral Analytics Systems  
-🔗 Repo: https://github.com/YOUR_USERNAME/emotional-journey-funnel-model
+🔗 Repo: https://github.com/william-mwita-qsa/emotional-journey-funnel-model
 
 ---
 
